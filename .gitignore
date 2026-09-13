@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment/secrets
+.env
+
+# macOS
+.DS_Store
+
+# Large/media files
+*.zip
+*.mp4
+*.iso
+
+# Data files
+*.csv
+
+# Excel files
+*.xlsx
+*.xls
+
+# Documents
+*.pdf
+*.txt
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Other common files
+*.json
+*.xml
